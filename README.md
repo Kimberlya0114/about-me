@@ -16,3 +16,7 @@ School Schedule
 6.SEP10 
 7.Yoga 
 8.Spanish 
+
+Things I like to do in the summer 
+
+Some of my favorite thinks to do in the summer include going to the beach, amusment parks, traveling with my family and going on hikes.
