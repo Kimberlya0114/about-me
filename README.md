@@ -9,7 +9,7 @@ School: _High School of Telecommunication Arts and Technology_
 Email: kimberlya0114@hstat.org
 
 
-Some of my hobbies include drawing and baking
+I am 15 years old and some of my hobbies include drawing, baking, and building puzzles. On my free time I like to watch shows on [Netflix](https://www.netflix.com/) or [Hulu](https://www.hulu.com/welcome). 
 
 ##### School Schedule
 
@@ -26,6 +26,9 @@ Some of my hobbies include drawing and baking
 
  * Beach
  * Amusment parks
+    * Coney Island 
  * River 
  * Dominican Republic 
- * Water parks 
+ * Water parks
+    * Dorney park 
+    * Splish Splash
