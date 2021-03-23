@@ -32,3 +32,6 @@ I am 15 years old and some of my hobbies include drawing, baking, and building p
  * Water parks
     * Dorney park 
     * Splish Splash
+
+
+Reviewed By Cynthia. I too like Dorney Park. 
